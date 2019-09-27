@@ -1,0 +1,6 @@
+##Modelo de Template do React-Native
+
+-Dependencias
+react-native-gesture-handler,
+react-native-reanimated,
+react-navigation
