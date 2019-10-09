@@ -6,14 +6,14 @@ Marve é um aplicativo simples com o intuito de apresentar o React-Native na II 
 
 Clone o projeto e instale os pacotes com seu gerenciador, executando:
 
-```npm
-npm npm install
+```
+npm install
 ```
 
 ou
 
 ```yarn
-yarn yarn install
+yarn install
 ```
 
 ## Uso
