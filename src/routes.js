@@ -4,7 +4,7 @@ import {createAppContainer} from 'react-navigation';
 import {createStackNavigator} from 'react-navigation-stack';
 
 import Main from './pages/Main';
-import logo from './assets/instagram.png';
+import logo from './assets/faust.png';
 
 const routes = createAppContainer(
   createStackNavigator(
