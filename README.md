@@ -1,4 +1,6 @@
-# Marvel
+<h1 align="center">
+  🎥🦸Fausthanos
+</h1>
 
 Marve é um aplicativo simples com o intuito de apresentar o React-Native na II Semana de Informatica do Instituto de Ciências Exatas e Tecnologia-UFAM
 
@@ -24,5 +26,5 @@ Crie uma conta no site da [Marvel](https://developer.marvel.com) e obtenha as ch
 
 Solicitações de pull são bem-vindas.
 
-##Licença
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
